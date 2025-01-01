@@ -1,1 +1,1 @@
-# weather-app
+# Weather App A simple weather application built with HTML, CSS, and JavaScript using the OpenWeatherMap API to fetch weather data. ## Features - Fetch and display current weather information based on city name. - Display temperature, humidity, and weather description. ## Requirements - A modern web browser. - An API key from [OpenWeatherMap](https://home.openweathermap.org/users/sign_up).
